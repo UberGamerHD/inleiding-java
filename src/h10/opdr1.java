@@ -26,7 +26,7 @@ public class opdr1 extends Applet {
 
 
     @Override
-    public void paint(Graphics g) {
+ public void paint(Graphics g) {
         g.drawString(schermtekst , 50 , 70);
         g.drawString(schermtekst2 , 50 , 50);
 

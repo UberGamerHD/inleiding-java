@@ -1,4 +1,6 @@
 package h11;
 
-public class opdr3 {
+import java.applet.Applet;
+
+public class opdr3 extends Applet {
 }
